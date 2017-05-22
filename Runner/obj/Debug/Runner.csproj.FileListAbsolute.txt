@@ -1,0 +1,12 @@
+/Users/andrew_yashin/Desktop/kpi/csharp/SheduleTask/Runner/bin/Debug/Runner.exe
+/Users/andrew_yashin/Desktop/kpi/csharp/SheduleTask/Runner/bin/Debug/Runner.exe.mdb
+/Users/andrew_yashin/Desktop/kpi/csharp/SheduleTask/Runner/bin/Debug/EntityFramework.dll
+/Users/andrew_yashin/Desktop/kpi/csharp/SheduleTask/Runner/bin/Debug/EntityFramework.xml
+/Users/andrew_yashin/Desktop/kpi/csharp/SheduleTask/Runner/obj/Debug/Runner.csprojResolveAssemblyReference.cache
+/Users/andrew_yashin/Desktop/kpi/csharp/SheduleTask/Runner/obj/Debug/Runner.exe
+/Users/andrew_yashin/Desktop/kpi/csharp/SheduleTask/Runner/obj/Debug/Runner.exe.mdb
+/Users/andrew_yashin/Desktop/kpi/csharp/SheduleTask/Runner/bin/Debug/EntityFramework.SqlServer.dll
+/Users/andrew_yashin/Desktop/kpi/csharp/SheduleTask/Runner/bin/Debug/EntityFramework.SqlServer.xml
+/Users/andrew_yashin/Desktop/kpi/csharp/SheduleTask/Runner/bin/Debug/MySql.Data.dll
+/Users/andrew_yashin/Desktop/kpi/csharp/SheduleTask/Runner/bin/Debug/MySql.Data.Entity.EF6.dll
+/Users/andrew_yashin/Desktop/kpi/csharp/SheduleTask/Runner/bin/Debug/Runner.exe.config
